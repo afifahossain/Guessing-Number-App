@@ -1,0 +1,13 @@
+C:\Users\Hp\Desktop\Newter\bin\Debug\netcoreapp3.1\Newter.exe
+C:\Users\Hp\Desktop\Newter\bin\Debug\netcoreapp3.1\Newter.deps.json
+C:\Users\Hp\Desktop\Newter\bin\Debug\netcoreapp3.1\Newter.runtimeconfig.json
+C:\Users\Hp\Desktop\Newter\bin\Debug\netcoreapp3.1\Newter.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\Newter\bin\Debug\netcoreapp3.1\Newter.dll
+C:\Users\Hp\Desktop\Newter\bin\Debug\netcoreapp3.1\Newter.pdb
+C:\Users\Hp\Desktop\Newter\obj\Debug\netcoreapp3.1\Newter.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\Newter\obj\Debug\netcoreapp3.1\Newter.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Newter\obj\Debug\netcoreapp3.1\Newter.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Newter\obj\Debug\netcoreapp3.1\Newter.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Newter\obj\Debug\netcoreapp3.1\Newter.dll
+C:\Users\Hp\Desktop\Newter\obj\Debug\netcoreapp3.1\Newter.pdb
+C:\Users\Hp\Desktop\Newter\obj\Debug\netcoreapp3.1\Newter.genruntimeconfig.cache
